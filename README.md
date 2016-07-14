@@ -1,2 +1,2 @@
 # My Readme File  
-Hello Cloud Guru
+Hello Cloud Guru Welcome to GIT class
